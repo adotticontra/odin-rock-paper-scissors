@@ -1,4 +1,4 @@
-# Rock, Paper, Scissor
+# Rock, Paper, Scissors
 
 An implementation of the classic game.
 
